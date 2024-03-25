@@ -240,7 +240,7 @@
 		<dependency>
 			<groupId>com.amazonaws</groupId>
 			<artifactId>aws-java-sdk-sqs</artifactId>
-			<version>1.12.681</version>
+			<version>1.12.686</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/net.sf.saxon/Saxon-HE -->
